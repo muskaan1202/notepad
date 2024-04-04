@@ -3,5 +3,5 @@
 .fa-trash, .fa-pencil-alt {cursor: pointer;}
 .hidden {display:none}
 .swatch {width:40px; height:40px; float:left; margin-right:20px; border-radius: 40%; cursor: pointer; }
-.swatch:hover, .active  {border: 10px solid rgb(88, 106, 147)}
+.swatch:hover, .active  {border: 10px solid rgb(30, 72, 171)}
 
